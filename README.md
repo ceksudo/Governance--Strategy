@@ -12,3 +12,8 @@ This stream investigates the technical and sociotechnical foundations for a worl
 * Technical: Developing methods for agent coordination/negotiation, confidentiality and trust, as well as evaluation frameworks.
 
 * Applied: Building a proof-of-concept system, such as an automated arbitration platform for simple disputes, to demonstrate and test these principles.
+
+
+# Course Revision
+* [Dynamic optimization](https://www.youtube.com/playlist?list=PLzm9WhyHDMwFxB_Hnga_slMcfCCgvndvW)
+* [PS 231 Strategic Models](https://www.youtube.com/playlist?list=PLc7nd1hqyQFf5HeiiOtw55D_BnU0nRcD8) || [Website](https://www.robertjcarroll.com/the-weird-world-of-ps-231/)
