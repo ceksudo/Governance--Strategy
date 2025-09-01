@@ -17,3 +17,4 @@ This stream investigates the technical and sociotechnical foundations for a worl
 # Course Revision
 * [Dynamic optimization](https://www.youtube.com/playlist?list=PLzm9WhyHDMwFxB_Hnga_slMcfCCgvndvW)
 * [PS 231 Strategic Models](https://www.youtube.com/playlist?list=PLc7nd1hqyQFf5HeiiOtw55D_BnU0nRcD8) || [Website](https://www.robertjcarroll.com/the-weird-world-of-ps-231/)
+* [Game Theory - Economics Perspoective](https://www.youtube.com/@selcukozyurt/playlists)
