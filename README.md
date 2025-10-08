@@ -23,3 +23,4 @@ This stream investigates the technical and sociotechnical foundations for a worl
 * [Game Theoery Class](https://www.youtube.com/@naomiutgoff/videos)
 * [Game Theory CS](https://www.youtube.com/playlist?list=PL_Nk3YvgORJtEJrafhk9tb3E5qQRGHvCK)
 * [Game Theory for Business Analytics](https://www.youtube.com/playlist?list=PLWTiuH5ft7ErAsTaeJMU31VI1JnnaTEy1)
+* [Game Theory by Gleb Polevoy Associate Prof. Dr., Opole University](https://www.youtube.com/@glebpolevoy278/playlists)
