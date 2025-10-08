@@ -27,3 +27,4 @@ This stream investigates the technical and sociotechnical foundations for a worl
 * [Equilibrium concepts in game theory ](https://www.youtube.com/playlist?list=PLFj6Mtr5e0-iKL-gheBJ58E7qCOAk_brM) || [Evolutionary Game Theory](https://www.youtube.com/playlist?list=PLFj6Mtr5e0-iZmQ0hikEgSAcdEfx4wYBc)
 * [Game Theory](https://www.youtube.com/playlist?list=PL8gpLQEUqzu3cdi0I1s_0d-G4gq6zQ4bC)
 * [Evolution of Cooperation](https://www.youtube.com/playlist?list=PLF5gYZTguV0H8abnyaVgydw8aPf5SFz5D)
+* [Game Theory](https://www.youtube.com/playlist?list=PLafNSwLWNh50NWZeO3HM1rH0XiytVrMAk)
