@@ -19,3 +19,4 @@ This stream investigates the technical and sociotechnical foundations for a worl
 * [Dynamic optimization](https://www.youtube.com/playlist?list=PLzm9WhyHDMwFxB_Hnga_slMcfCCgvndvW)
 * [PS 231 Strategic Models - Fall 2021](https://www.youtube.com/playlist?list=PLc7nd1hqyQFf5HeiiOtw55D_BnU0nRcD8) || [Website](https://www.robertjcarroll.com/the-weird-world-of-ps-231/) || [Game Theory - Fall 2020](https://www.youtube.com/playlist?list=PLWKV6_7b8ZwnqWYrggjVL4m_cAt0ZIzlQ)
 * [Game Theory - Economics Perspoective](https://www.youtube.com/@selcukozyurt/playlists)
+* [Game Theoery Class](https://www.youtube.com/@naomiutgoff/videos)
