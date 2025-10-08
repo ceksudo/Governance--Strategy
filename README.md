@@ -24,3 +24,4 @@ This stream investigates the technical and sociotechnical foundations for a worl
 * [Game Theory CS](https://www.youtube.com/playlist?list=PL_Nk3YvgORJtEJrafhk9tb3E5qQRGHvCK)
 * [Game Theory for Business Analytics](https://www.youtube.com/playlist?list=PLWTiuH5ft7ErAsTaeJMU31VI1JnnaTEy1)
 * [Game Theory by Gleb Polevoy Associate Prof. Dr., Opole University](https://www.youtube.com/@glebpolevoy278/playlists)
+* [Equilibrium concepts in game theory ](https://www.youtube.com/playlist?list=PLFj6Mtr5e0-iKL-gheBJ58E7qCOAk_brM) || [Evolutionary Game Theory](https://www.youtube.com/playlist?list=PLFj6Mtr5e0-iZmQ0hikEgSAcdEfx4wYBc)
